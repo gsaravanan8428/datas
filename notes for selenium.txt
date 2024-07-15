@@ -1,0 +1,10 @@
+1)Sampling 2----Project(Click file and  new project)
+2) Inside src create package- org.sampling2
+3)inside the package create java class---sk.java
+
+
+
+4)how to create referenced librari=y
+       1)right click on project(sampling2) and click properities
+       2)some times add external path are hiding that to click classpath .
+      3)add selinum driver
